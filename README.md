@@ -1,16 +1,21 @@
 # athelete_xperience
 
-A new Flutter project.
+A App for test which shows horizontal scrolling with particular tags
 
-## Getting Started
+<br> 
+<h3> Tech Stacks </h3>
 
-This project is a starting point for a Flutter application.
+- Dart
+- Clean Artitecture
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<h3> Demo </h3>
+<img src = "https://github.com/Rohit-554/Flutter_test_App/assets/48874687/8558a6ac-2d31-458c-b9ac-09daaa8a6599" width = 200, height = "400">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+
+Thanks :)
+
